@@ -1,0 +1,3 @@
+IssueMain [number=0, id=12, state=false, title=null, body=ISSUE1, createdat=Sat Feb 17 21:35:36 EST 2018, closedat=Sat Feb 17 21:35:36 EST 2018, user=User [login=null, id=null], assignee=User [login=null, id=null]]
+IssueMain [number=0, id=0, state=false, title=null, body=null, createdat=Sat Feb 17 21:35:36 EST 2018, closedat=Sat Feb 17 21:35:36 EST 2018, user=User [login=null, id=null], assignee=User [login=null, id=null]]
+IssueMain [number=0, id=0, state=false, title=null, body=null, createdat=Sat Feb 17 21:35:36 EST 2018, closedat=Sat Feb 17 21:35:36 EST 2018, user=User [login=null, id=null], assignee=User [login=null, id=null]]
